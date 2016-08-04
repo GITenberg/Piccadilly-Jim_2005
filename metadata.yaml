@@ -1,0 +1,47 @@
+_repo: Piccadilly-Jim_2005
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: "Piccadilly Jim is a novel by P. G. Wodehouse, first published in the\
+  \ United States on 24 February 1917 by Dodd, Mead and Company, New York, and in\
+  \ the United Kingdom in May 1918 by Herbert Jenkins, London. The story had previously\
+  \ appeared in the US in the Saturday Evening Post between 16 September and 11 November\
+  \ 1916.\nThe novel features Ogden Ford and his mother Nesta (both previously encountered\
+  \ in The Little Nugget (1913)). Nesta has remarried, to the hen-pecked, baseball-loving\
+  \ millionaire Mr. Peter Pett, and Ogden remains spoilt and obnoxious. The story\
+  \ takes its title from the charismatic character of Jimmy Crocker, Nesta's nephew\
+  \ and a reforming playboy. 'Jim' is called upon to assist in the kidnapping of Ogden,\
+  \ amongst much confusion involving imposters, crooks, detectives, butlers, aunts\
+  \ etc. - all in the name of romance of course.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Humor
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2005'
+  wikidata: Q3902535
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piccadilly (London, England) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- GITenberg
+title: Piccadilly Jim
+url: http://www.gutenberg.org/ebooks/2005
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%BC_%D1%81_%D0%9F%D0%B8%D0%BA%D0%BA%D0%B0%D0%B4%D0%B8%D0%BB%D0%BB%D0%B8
+- https://en.wikipedia.org/wiki/Piccadilly_Jim
+- https://it.wikipedia.org/wiki/Piccadilly_Jim
