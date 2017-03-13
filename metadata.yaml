@@ -1,5 +1,8 @@
 _repo: Piccadilly-Jim_2005
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wodehouse, P. G. (Pelham Grenville)
@@ -22,6 +25,8 @@ description: "Piccadilly Jim is a novel by P. G. Wodehouse, first published in t
   \ and a reforming playboy. 'Jim' is called upon to assist in the kidnapping of Ogden,\
   \ amongst much confusion involving imposters, crooks, detectives, butlers, aunts\
   \ etc. - all in the name of romance of course.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2005#Piccadilly-Jim
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Humor
