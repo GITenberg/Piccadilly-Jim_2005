@@ -11,6 +11,7 @@ Title: Piccadilly Jim
 Author: P. G. Wodehouse
 
 Release Date: September 12, 2012 [EBook #2005]
+Last Updated: August 16, 2016
 
 Language: English
 
@@ -1294,7 +1295,7 @@ THE EXILED FAN
 
 London brooded under a grey sky. There had been rain in the
 night, and the trees were still dripping. Presently, however,
-there appeared in the laden haze a watery patch of blue: and
+there appeared in the leaden haze a watery patch of blue: and
 through this crevice in the clouds the sun, diffidently at first
 but with gradually increasing confidence, peeped down on the
 fashionable and exclusive turf of Grosvenor Square. Stealing
@@ -3100,7 +3101,7 @@ by his idiotic behaviour was putting obstacles in the way of that
 return--what was the answer? The answer, to Jimmy's way of
 thinking, was that all was not well with James Crocker, that,
 when all the evidence was weighed, James Crocker would appear to
-be a fool, a worm, a selfish waster, and a hopeless, low-down,
+be a fool, a worm, a selfish waster, and a hopeless, low-down
 skunk.
 
 Having come to this conclusion, Jimmy found himself so low in
@@ -5495,7 +5496,7 @@ wrath.
 Having entered the boarding-house, Jerry, seeking company in his
 hour of sorrow, climbed the stairs till he reached a door on the
 second floor. Sniffing and detecting the odour of tobacco, he
-knocked and was hidden to enter.
+knocked and was bidden to enter.
 
 "Hello, Bayliss!" he said sadly, having obeyed the call.
 
@@ -9504,7 +9505,7 @@ CHAPTER XX
 
 CELESTINE IMPARTS INFORMATION
 
-Plit is only as strong as its weakest link. The best-laid schemes
+Plot is only as strong as its weakest link. The best-laid schemes
 of mice and men gang agley if one of the mice is a mental
 defective or if one of the men is a Jerry Mitchell. . . .
 
@@ -9775,7 +9776,7 @@ Mr. Crocker felt the sense of relief which he had sometimes
 experienced on the stage when memory had failed him during a
 scene and a fellow-actor had thrown him the line. It would be
 exaggerating to say that he was himself again. He could never be
-completely at his case with that pistol pointing at him; but he
+completely at his ease with that pistol pointing at him; but he
 felt considerably better. He lowered his voice an octave or so,
 and spoke in a husky growl.
 
